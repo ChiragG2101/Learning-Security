@@ -5,4 +5,4 @@ Level-2 Putting encryption to the User's Password while storing it in Database
 Level-3 Using Hash Function to encrypt Passwords
 Level-4 Using Salting along with Hashing of Passwords
 Level-5 Learnt Authentication as well as using Cookies
-Level-6 SignUp/SignIn User using Google Authentication
+Level-6 SignUp/SignIn of User using Google Authentication
